@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "irt"]
+	path = irt
+	url = https://github.com/egonulates/irt
+	shallow = true
+	registered = true
